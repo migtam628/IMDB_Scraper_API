@@ -1,0 +1,24 @@
+{
+    "name": "imdb_scraper",
+    "version": "1.0.2",
+    "description": "Scrape IMDB",
+    "main": "server.js",
+    "author": "MigTamRod",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/migtam628/IMDB_Scraper_API.git"
+    },
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "bugs": {
+        "url": "https://github.com/migtam628/IMDB_Scraper_API/issues"
+    },
+    "homepage": "https://github.com/migtam628/IMDB_Scraper_API#readme",
+    "license": "ISC"
+}
