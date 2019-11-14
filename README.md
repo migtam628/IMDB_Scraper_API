@@ -1,7 +1,7 @@
 IMDB_Scraper_API
 ================
 
-Simple web scraper to get a movie name, release year and community rating from IMDB.
+Simple web scraper to get a movie name, release year and much more from IMDB.
 To run this example use the following commands:
 
 ``` shell
