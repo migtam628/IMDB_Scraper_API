@@ -9,6 +9,6 @@ $ npm install
 $ node server.js
 ```
 
- Then it will start up our node server, navigate to http://localhost:8081/scrape and see what happens.
+ Then it will start up our node server, navigate to http://localhost:8081/scrape?id=${imdb_id} and see what happens.
 # IMDB_Scraper_API
 
